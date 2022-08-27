@@ -7,7 +7,7 @@ markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: mariajose
 blog_url: https://www.jimenezabogada.com
 email: mariajose@jimenezabogada.com
 keybase_username: mariajose
