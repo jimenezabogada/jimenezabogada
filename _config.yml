@@ -1,6 +1,6 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Maria José Jiménez Martín
+description: Abogada
+site_title: 'Maria José Jiménez Martín - Abogada'
 
 # Build settings
 markdown: kramdown
@@ -8,11 +8,11 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+blog_url: https://www.jimenezabogada.com
+email: mariajose@jimenezabogada.com
+keybase_username: mariajose
+twitter_username: mariajose
+reddit_username: mariajose
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
