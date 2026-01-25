@@ -1,8 +1,0 @@
-{
-  "name": "Jimenez Abogada - Servicios Legales",
-  "description": "Profesional con más de 25 años en ejercicio jurídico. Especializada en derecho de familia, herencias, compraventas y deshaucios.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
